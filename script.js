@@ -8,18 +8,17 @@ document.addEventListener('DOMContentLoaded', (event) => {
     let princessPosition = { top: 0, left: 0 };
     let collectedHearts = 0;
     const heartMessages = [
-        // "Você é meu mundo!",
-        // "Te amo mais que tudo!",
-        // "Você é a razão do meu sorriso!",
-        // "Cada batida do meu coração é por você!",
-        // "Nosso amor é eterno!",
+        "Você é meu mundo!",
+        "Te amo mais que tudo!",
+        "Você é a razão do meu sorriso!",
+        "Cada batida do meu coração é por você!",
+        "Nosso amor é eterno!",
         "Você é maravilhosa",
-        "A princesa mais linda",
-        "Gostosa",
+        "Amo você, princesa",
+        "Você é linda",
         "Você é a estrela mais linda de todas",
         "A maior maravilha do mundo",
-        "Obrigado por muito"
-
+        "Obrigado por sempre estar ao meu lado"
     ];
 
     document.addEventListener('keydown', (e) => {
